@@ -19,7 +19,7 @@ jobs:
 <<<<<<< HEAD
 =======
         with:
-          node-version: 16
+          node-version: 20
 >>>>>>> 2f93d21de3a9eceab5c14409f244e4aafa7b121a
 
       - name: Install dependencies
